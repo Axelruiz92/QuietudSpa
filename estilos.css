@@ -847,6 +847,15 @@ footer .container {
     }
 
 
+    #form-boton {
+        margin-top: 1rem;
+        width: 30%;
+        height: 5vh;
+        background-color: #d7acff;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
     
 /*FIN CONTACTO*/
 }
