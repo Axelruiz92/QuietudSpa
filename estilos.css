@@ -62,6 +62,7 @@ header .logo {
     font-weight: bold;
     color: #313131;
     font-size: 2em;
+    text-align: center;
 }
 
 header .container {
